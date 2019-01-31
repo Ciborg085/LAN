@@ -1,7 +1,7 @@
 <?php 
 	include('./classes/db.php');
 
-	if (isset($_POST['login'])) 
+	if (isset($_POST['login']))
 	{
 		$username = $_POST['username'];
 		$password = $_POST['password'];
