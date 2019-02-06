@@ -47,3 +47,21 @@ http://jsfiddle.net/3UWk2/1/
 https://stackoverflow.com/questions/9347966/php-jquery-how-to-use-these-two-together-please-see-my-example
 
 https://codepen.io/atelierbram/pen/gusxF
+
+
+{
+	- Nome do aluno
+	- Idade
+	- Telefone
+	- Cod do cartão de aluno
+	- Turma
+	- Nº de Turma
+	- Nome do encarregado de educação
+	- Telefone do encarregado de educação
+	- Morada
+	- Se vai ficar a noite ou n
+	- #Autorização em papel (no dia da lan mostra a autorização)
+	- Fixo ou portatil
+	- Pretende participar em torneios ou n, de sim quais.
+	
+}
